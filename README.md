@@ -17,3 +17,27 @@ Esse projeto foi desenvolvido com base no curso de **Flexbox: Posicione elemento
 
 * Desenvolver novas habilidades utilizando os conceitos de Flexbox
 
+
+## Resultado final
+
+<img src="./exemplo/exemplo1.png">
+
+<br />
+<br />
+
+<img src="./exemplo/exemplo2.png">
+
+<br />
+<br />
+
+<img src="./exemplo/exemplo3.png">
+
+<br />
+<br />
+
+<img src="./exemplo/exemplo4.png">
+
+<br />
+<br />
+
+<img src="./exemplo/exemplo5.png">
