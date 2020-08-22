@@ -20,9 +20,9 @@ Esse projeto foi desenvolvido com base no curso de **Flexbox: Posicione elemento
 <br />
 <br />
 
-Resultado final
+##Resultado final
 
-Desktop
+###Desktop
 <img src="./exemplo/exemplo1.png">
 
 <br />
@@ -32,7 +32,7 @@ Desktop
 
 <br />
 <br />
-Mobile
+###Mobile
 <img src="./exemplo/exemplo3.png">
 
 <br />
