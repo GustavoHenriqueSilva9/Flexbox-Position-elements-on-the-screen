@@ -17,9 +17,12 @@ Esse projeto foi desenvolvido com base no curso de **Flexbox: Posicione elemento
 
 * Desenvolver novas habilidades utilizando os conceitos de Flexbox
 
+<br />
+<br />
 
-## Resultado final
+Resultado final
 
+Desktop
 <img src="./exemplo/exemplo1.png">
 
 <br />
@@ -29,7 +32,7 @@ Esse projeto foi desenvolvido com base no curso de **Flexbox: Posicione elemento
 
 <br />
 <br />
-
+Mobile
 <img src="./exemplo/exemplo3.png">
 
 <br />
